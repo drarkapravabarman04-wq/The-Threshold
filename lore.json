@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "id": "sarah-cross",
+      "name": "Detective Sarah Cross",
+      "role": "Protagonist",
+      "description": "A dedicated homicide detective thrust into a world beyond human understanding. Pragmatic and skeptical by nature, Sarah's worldview shattered when Marcus appeared in her apartment six months ago, proving that death isn't always the end. Now she walks the line between two worlds, solving crimes that normal law enforcement can't even acknowledge exist.",
+      "traits": ["Determined", "Skeptical", "Adaptable", "Haunted by duty"],
+      "status": "Living"
+    },
+    {
+      "id": "marcus",
+      "name": "Marcus",
+      "role": "Partner",
+      "description": "A man who died but didn't stay dead. Marcus exists in a liminal state—not quite alive, not quite a ghost, but something in between. He moves like a shadow, sees things others can't, and serves as Sarah's guide into the supernatural underworld. His past is shrouded in mystery, and he refuses to discuss exactly how or why he came back.",
+      "traits": ["Mysterious", "Knowledgeable", "Sardonic", "Protective"],
+      "status": "Living Dead"
+    },
+    {
+      "id": "dante",
+      "name": "Dante",
+      "role": "Information Broker",
+      "description": "The owner of Liminal nightclub, a neutral zone where creatures from both sides of reality can coexist peacefully. Dante is inhumanly beautiful and has survived three apocalypses, though he never specifies which ones. He deals in information, protection, and the occasional favor—for the right price.",
+      "traits": ["Sophisticated", "Ancient", "Pragmatic", "Neutral"],
+      "status": "Non-human"
+    }
+  ],
+  "locations": [
+    {
+      "id": "liminal-club",
+      "name": "Liminal Nightclub",
+      "type": "Neutral Zone",
+      "description": "A supernatural sanctuary hidden in plain sight. Liminal operates as a meeting ground where beings from both sides of the threshold can gather without fear of violence. The club exists partially out of phase with normal reality—its interior space larger than its exterior would suggest, its basement descending farther than physically possible."
+    },
+    {
+      "id": "the-threshold",
+      "name": "The Threshold",
+      "type": "Dimensional Boundary",
+      "description": "The invisible barrier between the human world and the realm of supernatural entities. Normally stable, the threshold can be weakened or torn open through violent deaths, powerful rituals, or the intervention of beings with sufficient power. When thin, it allows creatures to cross over, often with devastating consequences."
+    },
+    {
+      "id": "the-city",
+      "name": "The City",
+      "type": "Urban Setting",
+      "description": "An unnamed metropolis that serves as the story's primary setting. Like all cities, it has layers—the surface world of mundane crime and daily life, and the hidden world of thresholds, creatures, and those who hunt them. Certain locations naturally have thinner barriers between worlds."
+    }
+  ],
+  "concepts": [
+    {
+      "id": "thresholds",
+      "name": "Thresholds",
+      "category": "Metaphysics",
+      "description": "Points where the barrier between worlds grows thin enough for crossing to occur. Thresholds can be natural (formed at places of great emotion or violence) or artificial (created through ritual and sacrifice). The story's antagonist is attempting to create a permanent threshold—a gate that never closes."
+    },
+    {
+      "id": "between-states",
+      "name": "Between States",
+      "category": "Existence",
+      "description": "Certain beings exist in liminal spaces—neither fully alive nor dead, neither completely human nor entirely other. Marcus is one such being. These individuals can perceive both worlds simultaneously and often serve as bridges, guides, or warnings."
+    },
+    {
+      "id": "summoners",
+      "name": "Summoners",
+      "category": "Magic Users",
+      "description": "Rare humans with the knowledge and power to force thresholds open. Most summoners work carefully, understanding the danger of what they call through. A rogue summoner willing to sacrifice others to open permanent gates represents one of the gravest threats to both worlds."
+    }
+  ]
+}
